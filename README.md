@@ -17,6 +17,10 @@ How to Run the Project
 Clone the repository:
 
 bash
+```console
+foo@bar:~$ whoami
+foo
+```
 Copy code
 git clone https://github.com/yourusername/java-chess-game.git
 Compile the project:
