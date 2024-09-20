@@ -1,4 +1,4 @@
-#**Java Chess Game**<br>
+# **Java Chess Game**<br>
 This is a simple Chess Game developed in Java, providing a classic two-player chess experience. The game follows standard chess rules, with the goal of checkmating the opponent's king.
 
 **Features**<br>
