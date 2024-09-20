@@ -14,7 +14,7 @@ Game.java: Manages game flow, including turns and win conditions.
 How to Run the Project<br>
 Clone the repository:<br>
 ```console
-git clone https://github.com/yourusername/java-chess-game.git
+git clone https://github.com/neev-ahuja/chess-java.git
 ```
 
 Run the Game:
