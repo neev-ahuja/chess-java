@@ -18,25 +18,15 @@ Clone the repository:
 
 bash
 ```console
-foo@bar:~$ whoami
-foo
-```
-Copy code
 git clone https://github.com/yourusername/java-chess-game.git
-Compile the project:
+```
 
-Navigate to the project directory and run the following command:
-
-bash
-Copy code
-javac src/*.java
 Run the Game:
 
 After compiling, run the main class to start the chess game:
-
-bash
-Copy code
-java src.Chess
+'''console
+java chess.java
+'''
 Screenshots
 
 Future Enhancements
