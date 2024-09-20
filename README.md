@@ -23,7 +23,7 @@ Run the Game:
 java chess.java
 ```
 Screenshots
-![alt text]([https://github.com/neev-ahuja/chess-java/blob/main/game_screenshot.png)
+![alt text](./game_screenshot.png)
 
 Future Enhancements
 Legal Moves: Enforces legal moves for each piece, including special moves like castling, en passant, and pawn promotion .
