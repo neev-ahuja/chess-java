@@ -7,10 +7,9 @@ Two-player functionality: Players can take turns moving pieces according to stan
 Chess Pieces: Supports all standard chess pieces - King, Queen, Bishop, Knight, Rook, and Pawns.
 
 **Project Structure**<br>
-Chess.java: The main class which launches the game.
-Board.java: Handles the chessboard setup and piece positions.
-ui.java: Defines the logic of graphical user interface using JFrame.
-Game.java: Manages game flow, including turns and win conditions.
+Chess.java: The main class which launches the game.<br>
+Board.java: Handles the chessboard setup and piece positions.<br>
+ui.java: Defines the logic of graphical user interface using JFrame.<br>
 How to Run the Project<br>
 Clone the repository:<br>
 ```console
