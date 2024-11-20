@@ -10,8 +10,6 @@ Chess Pieces: Supports all standard chess pieces - King, Queen, Bishop, Knight, 
 **Project Structure**<br>
 
 chess.java: The main class which launches the game.<br>
-board.java: Handles the chessboard setup and piece positions.<br>
-ui.java: Defines the logic of graphical user interface using JFrame.<br>
 
 **How to Run the Project**<br>
 
